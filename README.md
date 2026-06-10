@@ -152,24 +152,20 @@ The dashboard allows stakeholders to interactively explore:
 ## Repository Structure
 
 ```
-Customer-Shopping-Behavior-Analysis/
+customer-trends-data-analysis-SQL-Python-PowerBI
 │
-├── Data/
-│   └── customer_shopping_behavior.csv
+├── customer_shopping_behavior.csv
 │
-├── Python/
-│   └── Data_Cleaning_and_EDA.ipynb
+├──  Data_Cleaning_and_EDA.ipynb
 │
-├── SQL/
-│   └── customer_behavior_sql_queries.sql
+├─ customer_behavior_sql_queries.sql
 │
-├── Dashboard/
-│   └── Customer_Behavior_Dashboard.pbix
+├──  Customer_Behavior_Dashboard.pbix
 │
 ├── Reports/
 │   ├── Business_Problem_Document.pdf
-│   ├── Project_Report.pdf
-│   └── Project_Presentation.pptx
+│   └── Project_Report.pdf
+│   
 │
 └── README.md
 ```
@@ -191,8 +187,6 @@ Customer-Shopping-Behavior-Analysis/
 
 ## Author
 
-**Sahul Patil**  
+**Sahil**  
 Aspiring Data Analyst · Python · SQL · Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-username)
